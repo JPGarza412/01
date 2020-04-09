@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html>
+
+<style>
+div {
+  height: 220px;
+  width: 50%;
+  background-color: SlateBlue;
+}
+</style>
+
+<head>
+<title> Best Albums in Existence </title>
+</head> 
+
+<body>
+<h1> The Royal Scam </h1>
+<p> <a href="https://open.spotify.com/album/1Sur33x6g7tvdd9GQnHhhu?si=hu7cWIuRSi6LepNtV2YxhA"> The Royal Scam </a>, an album by Steely Dan, was made in 1976. The album was the second album to be written since they lost their lead 
+guitarist Jeff Baxter, yet has some of their most prominent guitar work. It references many notable events and has some of the most 
+musically unique and complex melodic compositions as compared to many albums before that. It made it to #15 on the charts upon its
+release and is very underappreciated for its mastery of melodies, and meaningful lyrics alike.
+
+<h2> Out of the Blue & Concerto for a Rainy Day </h2> 
+<p2> <a href="https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU?si=IbnuFH0uQLqGdrv7rPX5bw"> Out of the Blue</a> is ELO's most known album and rightfully so. Jeff Lynne originally had Out of the Blue and his famed Concerto for a 
+Rainy day seperate, but he has since merged them into a massive and amazing 17 song album. Jeff Lynne wrote his concerto based off of
+the weather and each song bring to the table a new mood and composition depending on the weather. Overall his masterpiece should be known
+by everyone, and should live forever as possibly the greatest album of all time. </p2> 
+
+<h3> Aerial Ballet </h3> 
+<p3> Harry Nilsson... a name not well known, and for no good reason. <a href="https://open.spotify.com/album/0H3v4snD6xhworsjXndsai?si=sI54QADxSyWLP1UL9USOYg">Harry Nillson's 1968 album</a> is a slow and graceful album which combines 
+western and eastern musical and lyrical styles into one. Harry's styles are reminiscent to his birthplace in Brooklyn, New York and can
+be compared to Billy Joel's New York style. But not only does he use the New York style, but utilizes western folk and western type tunes. 
+Its is clear that Nilsson takes influence from the Beatles and even uses the string quintet which George Martin utilizes in the many of 
+the Beatles songs. Nilssons album is composed like a musical or ballet soundtrack which was obviously done on purpose.  John Lennon even
+expresses his content with Nilssons genius by saying Nilsson is his favorite american artist, which from the Beatle himself means a lot.    </p3>
+</body>
+</html>
+
